@@ -1,6 +1,7 @@
 # WindowServiceTest
 Test of Window service Web Api
-這是一個簡單的Window service版的Web api，主要是測試如何在Window service內寫Web api。
+這是一個簡單的Window service版的Web api
+主要是測試如何在Window service內寫Web api。
 
 資料庫的部分是和Mysql連線，可自行修改Model的部分。
 
